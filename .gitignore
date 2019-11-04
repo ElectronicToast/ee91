@@ -1,0 +1,4 @@
+# For LTSpice
+*.log
+*.raw
+*.op.raw
